@@ -20,7 +20,7 @@ Open new terminal
 ```
 ## Roadmap
 
-- To install apk go to folder **android/apk/build/outputs/apk/release**
+- To install apk go to folder **android/app/build/outputs/apk/release**
 
 ## Appendix
 
